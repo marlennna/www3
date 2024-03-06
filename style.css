@@ -3,7 +3,12 @@ body{
 }
 
 p{
-    width: 100px;
+    width: 250px;
     height: 100px;
     background-color: crimson;
+    border: solid;
+}
+
+.container{
+    display: flex;
 }
